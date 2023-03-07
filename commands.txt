@@ -8,4 +8,5 @@
 8. git remote add origin ( and then ssh link)
 9. git push origin master (it'll not work without ssh key generate)
 9. ssh-keygen -t ed25519 -C "your_email@example.com" (write your email here)
+9.a. cat (and path of "Your public key has been saved in")
 10. git push origin master (again)
